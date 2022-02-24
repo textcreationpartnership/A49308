@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest vindication of the hermite of the Sounding Island in requital for the modest vindication of the Salamanca doctor from perjury by Bartholomew Lane ...</title>
+            <author>Lane, Bartholomew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49308</idno>
+            <idno type="STC">Wing L329</idno>
+            <idno type="STC">ESTC R1663</idno>
+            <idno type="EEBO-CITATION">13436873</idno>
+            <idno type="OCLC">ocm 13436873</idno>
+            <idno type="VID">99546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49308)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 461:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest vindication of the hermite of the Sounding Island in requital for the modest vindication of the Salamanca doctor from perjury by Bartholomew Lane ...</title>
+                  <author>Lane, Bartholomew.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Snowden for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A burlesque of Elliot's Narrative of my travails, captivity, and escape, which appears in his Modest vindication.  Cf. DNB.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elliot, Adam, d. 1700. --  Modest vindication of Titus Oates, the Salamanca doctor.</term>
+               <term>Oates, Titus, 1649-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99546:1"/>
+            <pb facs="tcp:99546:1" rendition="simple:additions"/>
+            <p>A MODEST VINDICATION OF THE HERMITE OF THE Sounding Iſland: In Requital for the MODEST VINDICATION OF THE <hi>Salamanca Doctor</hi> FROM PERJURY.</p>
+            <p>By <hi>Bartholomew Lane</hi> 
+               <abbr>Eſq</abbr>.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>T. Snowden</hi> for the Author. 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99546:2"/>
+            <pb n="1" facs="tcp:99546:2"/>
+            <head>A Modeſt Vindication, &amp;c.</head>
+            <p>THere's no body who had never ſeen it before, that looks upon the out<g ref="char:EOLhyphen"/>ſide of <hi>Bedlam,</hi> but will ſay, 'tis a very line Structure; and take it for ſome beautiful Colledge; but when they are once within ſide of it, and hear the ſeveral ſorts of Melody which the various Profeſſors there make in their particular Apartments; ſome raving, others tearing; ſome ſwear<g ref="char:EOLhyphen"/>ing, others hollowing; ſome whooping; 'tis twenty to one but they will know where they are; and let the People ſay what they will, and tell 'em they're ſo<g ref="char:EOLhyphen"/>ber, yet they will believe 'em to be what they are, ſtark mad.</p>
+            <p>So fares it with <hi>Our Modeſt Vindication of the</hi> Salamanca <hi>Doctor from Perjury.</hi> A very ſpecious Frontiſpiece. For who cannot but look upon it as a very good work, to vindicate a mane from ſo foul a Crime? 'Tis a pious, good, honeſt, chari<g ref="char:EOLhyphen"/>table work, and might deſerve Remuneration, or Retaliation, if well done; eſpecially when a man comes ſo far as <hi>Morocco</hi> to do it.</p>
+            <p>To go a little farther, <hi>On an Eſſay to prove him only Forſworn in ſeveral Cir<g ref="char:EOLhyphen"/>ſtances.</hi> All this is well enough—For 'tis common in your great Portals to have a couple of ugly <hi>Satyrs,</hi> or a brace of yawning <hi>Saracens</hi> Heads ſtaring in your face, to embelliſh the Workmanſhip. Theſe things are frequently admit<g ref="char:EOLhyphen"/>ted in Architecture among the Sober and Judicious.</p>
+            <p>Nay, he may be allowed a Sentence or two to boot, with half a dozen Verſes: They lie like Marble Steps or Aſcents, very graceful and majeſtick. And when the People behold theſe outward Graces, they cry, Who lives here? ſure 'tis ſome Lord or Knight—No, 'tis only a <hi>Maſter of Arts,</hi> and a <hi>Prieſt of the Church of</hi> England.</p>
+            <p>Certainly cries one—I cannot believe it—Why ſo Sirs?— Why I ventured but a little way in—and there's ſuch raving and tearing, ſuch fuming and foming, ſuch a noiſe, ſuch a din, ſuch huffing and dinging, ſuch ſnarling and Bowwowing, that it ſeems rather the Manſion of <hi>Scylla</hi> and <hi>Charybdis:</hi> All the Conſtables of <hi>Faringdon</hi> without may be thought few enough to keep the Peace in it. Sure, added he, the Owner of this Pile is too mad to make a Prieſt of. Oh Sir!—'Twould make any man mad to be abus'd as he has been. Don't tell me that Sir, I am ſure <hi>Don Quixot,</hi> who was a Knight Errant, and ſo Cholerick, that no Prieſt ought to pretend to be like Him, was of another mind. For he being affronted by an <hi>Eccleſiaſtico,</hi> took a more ſerene Method in his Rebuke. You may find it, in his 32th Chapter of his ſixth Book. As for the Verſe, you may digeſt the Chapter into Verſes, and find out the number your ſelf if you pleaſe. This <hi>Eccleſiaſtico</hi> had ſaid to this ſame Knight in the Chapter foregoing—<hi>Soul of a Pitcher, who has put it into your Noddle that you are a Cavaliero andante, Kill Giants, and overcome Windmills?</hi> A very ſharp Rebuke, and no way befitting an <hi>Eccleſiaſtico.</hi> Now what ſaid the meek Knight to him? <hi>I expected,</hi> quoth he, <hi>from one of your Coat, good Counſel, and private well intended Reprehenſions, not to be ſo ſeverely reproached in publick. For calm Reproof better befits a man of your Calling, than railing and ſcolding beyond all the Limits of Modeſty and Civility.</hi> Why truly, this was an Affront very patiently ſheath'd up,
+<pb n="2" facs="tcp:99546:3"/>eſpecially by a Knight that would quarrel with a Windmill, for grinding Corn for the Poor. But our <hi>Knight's Tempers,</hi> are ſome of them more teſty than He. Be<g ref="char:EOLhyphen"/>ſides, this man was abus'd after a ſtrange faſhion; He was Mahometanickly abus'd, Jewiſhly abus'd, Jeſuitically abus'd—Surely you know nothing of the mat<g ref="char:EOLhyphen"/>ter;—Not I, by my Troth—I hardly read a Pamphlet once in a Quarter of a year—For I look upon all your Paper-ſquabbles to be but like the hideous noiſe, and unpleaſing clamours of thoſe Geeſe, from whoſe wings the Quills were pull'd. If you have a mind to hear Scolding, go to <hi>Billingſgate;</hi> there you may to the full de<g ref="char:EOLhyphen"/>light your Ears with ſuch pleaſing Dialogues; there they are natural, come free, &amp; unſtudy'd for. But for men to take pains to abuſe one another, ſhew 'em to have Brains more empty than Fiſhwives. Oh Sir!—But what think you of Aſperſions? —Would you not have a man vindicate himſelf from Aſperſions?—You'd as good ſay, a man ought not to bruſh his Cloths when they're dirty? Why look ye Sir; ſome men may vindicate themſelves from Aſperſions, and ſome may not. For ſome men are ſo inconſiderable in the World, that if you divide the Nation where they live into twenty parts, nineteen and three quarters, not three quarters of the fourth quarter ever mind thoſe Aſperſions. And what ſhould ſuch a Perſon trouble himſelf about Aſperſions. A rude Carman many times all bedaſhes a <hi>Hidalgo</hi>'s ſpick and ſpan new Suit;—this is a very great <hi>Aſperſion</hi> indeed.—Upon this the Gentle<g ref="char:EOLhyphen"/>man in a violent Fury aſperſes the Carman, and calls him <hi>Son of a Whore.</hi> What a pitiful ſort of Revenge is this? For ſtill the Gentleman's all bedaub'd; but the Carman goes away whiſtling about his buſineſs, not thinking it worth his while to diſpute with the <hi>Aſperſed</hi> Gentleman about his Pedigree. Many a man happens to tear his Cloaths with a Nail or a Tenter-hook in ſome Poſt or Bulk againſt a Stall; and what then? why then the man looks firſt upon the Rent in his Garment, and gives the Tenter-hook a good weighty Curſe. But all the while 'tis his Coat, and not the Tenterhook receives the damage. And therefore if a man be <hi>Aſper<g ref="char:EOLhyphen"/>ſed,</hi> and no body takes notice of it, a Vindication is like ſetting up a Poſt for his own folly to ſhoot at. But then on the other ſide, ſuppoſe there ſhould be grounds and ſuſpicions for this Aſperſion, what ſignifies a Vindication then? Why then 'tis juſt as if one of the Night-Rommagers of my Nuncles Houſes ſhould piſs upon his Embroidered Veſtment to make it clean.</p>
+            <p>But you'l ſay, This fame <hi>Salamanca Doctor</hi> is a perillous man, a man of note; one that has more Enemies than a great many; the <hi>Papiſts</hi> and all that ad here to 'ein are his mortal Foes: He's the only Windmill that provokes all the <hi>Don Quixote's</hi> of the Age; mony has been got by Lambaſting him with Satyrs and Paſquils; and what more would not the <hi>Papiſhes</hi> give? they would even ſell their <hi>Madonna di Loretto,</hi> and all <hi>Mary Magdalen</hi>'s Wardrobe to ſee him fairly <hi>Dathan'd</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram'd.</hi> Had they but known the worth of Mr. <hi>A. E.</hi> rather than he ſhould have ſtay'd in <hi>Morocco</hi> three minutes, they would have exchang'd St. <hi>James</hi> of <hi>Com<g ref="char:EOLhyphen"/>poſtella</hi> for ſuch a <hi>Modeſt Eſſayer,</hi> to prove their grand Enemy <hi>forſworn.</hi>
+            </p>
+            <p>Why ſay you, that's no ſuch great piece of Buſineſs with Them, to exchange a Rich Saint for a poor Devil upon a good occaſion. And you know, if this Poor Devil do 'em a kindneſs, they can make him a Rich Saint when they pleaſe. And one Poor Devil ſometimes may do 'em more good than twenty Rich Saints. There's one <hi>Mounſieur Gaſ-teare</hi> is the Devil of a Saint—Nay, the Devil of a Devil, but if the Papiſhes can but fix him, he'l make a hard ſhift but he'l do 'em a kindneſs.</p>
+            <p>
+               <hi>Mounſieur Gaſ-teare!</hi>—Who's he?—I never heard of him;—Why Sir, he's a <hi>Grecian</hi> by Birth; but the moſt incomparable fellow under the Sky—He it was that invented all the Arts and Sciences in the World; He taught the famous Crow that ſaluted all The <hi>Roman</hi> Senators by their Names, as they entred the Senate Houſe; He taught the fellow that would take ye all the Grains out of an Ear of Wheat, &amp; then ſetting the Ear upright in a piece of ſoft Wax, would toſs the particular Grains into their particular places again at four yards diſtance. He taught great <hi>Panurgus</hi> before he came to be a Cardinal, thoſe pretty Inventions, of carrying about him your little ſhort Knives, as ſharp as Furriers Needles to cut Purſes; of blowing Lice in the Lade Necks at Church, &amp; faſtening the men and the women together with ſmall Hooks, as they kneeled at Maſs; ſo that the next thing they did was to tear one anothers Silks and Sattins when <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> departed. All which he did as being in fee with the Taylors.</p>
+            <p>The ſame Maſter it was, that inſtructed this towardly Diſciple of his to provide him<g ref="char:EOLhyphen"/>ſelf
+<pb n="3" facs="tcp:99546:3"/>with fine Handkerchiefs, ſtrew'd with Powder of <hi>Raphorbium,</hi> and then to clap them to the Lady's Noſes, to make 'em ſneeze four hours together.</p>
+            <p>Elephants, Lions, Rhinoceroſſe's, Bears, Horſes, Spaniels, ſight, ſhoot off Piſtols, tell money dance, fetch, carry, ill at his command. He invented thoſe wicked Arts of Printing and Guns; and He it was, this <hi>Mounſieur Gaſ-teare,</hi> that taught our <hi>Modeſt Vindicator</hi> or write a <hi>Modeſt Ran-dan,</hi> or a <hi>Tantivy Eſſay</hi> to prove the <hi>Salamanca</hi> Doctor <hi>forſworn.</hi>
+            </p>
+            <p>The <hi>Modeſt Vindicator,</hi> d'ye call him, you may give him the Title rather of <hi>Don Bragghibus,</hi> the <hi>Hermite</hi> of the <hi>Sounding Iſland.</hi> When you come into his Introduction, you would think you were in the Ancient Magical <hi>Heptaphonus,</hi> loud-reſounding, noiſe rebounding, Ear-confounding, <hi>Jone</hi> out-thundring <hi>Portico</hi> in <hi>Olimpia. Dodona's</hi> Brazen <hi>Caldron,</hi> when the Devil and the Wind Rung all in, to receive the Anſwers of the Oracle, never made ſuch a <hi>Din.</hi> Never did the two Statues erected upon <hi>Memnom</hi> Tomb in <hi>Egyptian Thebes,</hi> keep ſuch a roaring: or <hi>Perillous</hi> ever bellow ſo loud in <hi>Pha<g ref="char:EOLhyphen"/>laris</hi>'s Bull.</p>
+            <q>
+               <l>So in the Sunny Spring, when Swarms of Bees</l>
+               <l>In Cluſters hang upon th' adjoyning Trees,</l>
+               <l>The Country Swains their Brazen Mettal bang,</l>
+               <l>And Copper Corybantick Baſons twang,</l>
+               <l>Till high <hi>Olympus</hi> with the ſound amaz'd—</l>
+            </q>
+            <p>Hold Sir,—The Inference is eaſie, and it I miſtake not, too true for an <hi>Eccleſiaſtico.</hi> And yot Sir, I muſt needs ſay this for the Gentleman, that the Popiſh Plot is like the <hi>Cretan Jove,</hi> which the <hi>Saturns</hi> of the Age would fain devour. Now, who knows but this ſame <hi>Corybant</hi> had a deſign to Ring it out of their Reach, as the <hi>Cretans</hi> couzen'd <hi>Saturn?</hi> No, no, Sir, you miſtake his deſign, he would have the <hi>Saturns</hi> devour it; and therefore he beats up his Drums in the Valley of <hi>Gehinnom,</hi> that the pitiful Cries of the poor Plot, weltring in the fiery Arms of its own <hi>Molechs,</hi> ſhould not be <hi>Heard.</hi> For alas! the Popiſh Plot would fain live, only there is at preſent a neceſſity to Sacrifice it to a better Opportunity.</p>
+            <p>This Plot, Sir, came at firſt from the Devil, and the Papiſhes are ſending it as faſt as they can to the Devil again; knowing that no body will keep it ſo well as he can, or more willingly reſtore it them when they have occaſion. And therefore this ſame <hi>Eeccle<g ref="char:EOLhyphen"/>ſiuſtico</hi> does like a true Conjurer, to raiſe Storms and Tempeſts, and Hurricanes, &amp; Thun<g ref="char:EOLhyphen"/>der and Lightning for the Devil's more noble Conveyance; for the Devil alwaies Coaches it in foul Weather. Pray do but peep through the <hi>Modeſt Eſſayers</hi> Introdu<g ref="char:EOLhyphen"/>ction, and tell me whether you do not ſee the Popiſh Plot poſting away in an Egg<g ref="char:EOLhyphen"/>ſhell upon a Broom-ſtick? I muſt confeſs the <hi>Introduction</hi> is very whirlwindy, fluſtring, bluſtring, violent, virulent, ranting, taunting, flaunting, and ſurely he deſtroy'd a World of Nettles with his hot Urine, before he could finiſh that ſtingy piece of <hi>Divinity</hi>—Had this Mounſieur <hi>Bragghibus</hi> but conſidered that pious Sermon which <hi>Guſman</hi> makes up<g ref="char:EOLhyphen"/>on the vanity of Honour, he would never have been ſo teſty for a ſmall Rent in the Caſ<g ref="char:EOLhyphen"/>ſock of his petty Reputation. A thing ſo ſmall, that had not he ſent us his own Mag<g ref="char:EOLhyphen"/>nifying Glaſs, we could no more have diſcerned it, than the Muſcles in a Flea's Leg, or the Stepſtately's of a <hi>Mete</hi> in a Cheeſe. But your Divers into Nature's Secrets, called Natural Philoſophers, relate, that there is not a more angry, or more huſſie creature in the World than a Louſe: Do but handle him a little roughly in the <hi>Microſcope,</hi> &amp; you ſhall ſee him ſet up his briſtles, and ſwell at leaſt ſour Inches by the Cloth-yard men<g ref="char:EOLhyphen"/>ſure. And therefore a <hi>Don Bragghibus</hi> ſhould have conſidered, that for a man to be made a Cuckold, is an abuſe; and yet 'tis the general Opinion of the World, that Cuckolds had better carry their Horns in their Pockets, than upon their Foreheads.</p>
+            <p>That's ſomething you ſay, Sir; But I muſt tell ye, he has not only labour'd, but he has labour'd beſides the Cuſhion; he has ſtray'd from his Text like a loſt Sheep from the reſt of the Herd. And all at the Inſtigation of Mounſieur <hi>Gaſ-teare:</hi> So that although he has no more Charity for the <hi>Salamanca Doctor</hi> than a Hobnail, yet the <hi>Salamanca Do<g ref="char:EOLhyphen"/>ctor</hi> has ſo much Charity for him, as to believe, that 'twas not a Prieſt of the Church of <hi>England,</hi> but Mounſieur <hi>Gaſ-teare</hi> that wrote the <hi>Modeſt Vindication.</hi> For look ye, Sir, have you ever heard of a certain Country <hi>Shrove-Tueſday</hi> Sport, called, <hi>Thraſhing the Cock?</hi> Why, Sir, they put this Cock in the Ground, and lay a Turf over him;— which done, he that can hit him blindfold, at ſuch a price ſhall have him.—Preſently in ſteps <hi>Mounſieur Gaſ-teare,</hi> and tempts one or other to undertake the Adventure.— I ſay, <hi>Mounſieur Gaſ-teare,</hi> becauſe 'tis <hi>pour la Trippe,</hi> in hopes of the Cock's Fleſhiat
+<pb n="4" facs="tcp:99546:4"/>Night.—Thereupon the fellow is ſwath'd about the Eyes with the ſame impartiality that Love or Juſtice are ſaid to be Hoodwinkt; then a Flail is put into his hand, and being turn'd three or four times round about, he is left to the conduct of his merciful Fortune. And now he thraſhes on in the dark; whatever lies before him feels his fury; he uſes no Complements, nor, By your Leaves; —No,—If his Sweet-heart ſtood in his way, ſhe might receive as unmerciful a Palt as another; — Yet all this while, whatever he belabours, his aim is ſtill at the Cock.</p>
+            <p>Even ſo it is with our <hi>Don Bragghibus,</hi> the Hermite of the <hi>Sounding Iſland;</hi> we know his main Aim is at a <hi>Modeſt Vindication,</hi> he levels at the <hi>Salamanca Doctor;</hi> but being blinded by <hi>Mounſieur Gaſ-teare,</hi> with paſſion and deſire of Revenge, he ſtorms and fumes at the preſervation of his Soveraign; ſhoots his Fools bolts againſt thoſe dread<g ref="char:EOLhyphen"/>ful Inſtruments of Murder, <hi>Poyſon, Screw'd Guns,</hi> and <hi>Conſecrated Daggers,</hi> with which his Sacred Life was threatned, laughs at 'em as meer Scar-Crows, and by contemptu<g ref="char:EOLhyphen"/>ouſly denying the poſſibility of any ſuch wicked Intendments, ſeeks to infer an im<g ref="char:EOLhyphen"/>probability of the General Popiſh Plot from a ſilly, idle, pretended, paltry Diſguſt of his own againſt the firſt Diſcoverer. There is a famous Moralliſt, who tells us a ſtory of a Fool, that if any perſon had flung a Stone at him, and hit him a good thump, yet would he be ſo far from flinging at any other than thoſe who threw at him, that he would not throw any other Stone but that individual Stone which was flung at him<g ref="char:EOLhyphen"/>ſelf. This Fool was ten times wiſer than our wiſe <hi>Mounſieur Bragghibus.</hi> He pre<g ref="char:EOLhyphen"/>tends the <hi>Salamanca Doctor</hi> has thrown a Stone at him, and crackt that little, brittle Reputation he had, and therefore he flings at all, pelts the <hi>King's Preſervation, ſlap</hi>— ſaies he, at the <hi>Conſervation</hi> of the <hi>Kingdom;</hi> Have at the <hi>Diſcovery</hi> of the <hi>Popiſh Plot</hi>— and all this to make the <hi>King's Preſervation,</hi> the Preſervation of the <hi>Kingdom,</hi> and the <hi>Diſcovery</hi> of the <hi>Plot</hi> ſtand out of his way, that he might have the more room to let drive at the Head of his Capital Enemy, the <hi>Salamanca Doctor.</hi> Had the <hi>Salamanca Doctor</hi> diſgruntl'd him, yet there was no reaſon from thence that therefore ſuch a Muckworm of a <hi>Bragghibus</hi> as he ſhould play the <hi>Jack-pudding</hi> with the Higheſt Con<g ref="char:EOLhyphen"/>cerns of Three Nations.</p>
+            <p>Whence perceiving it as plain as a Fly in the Milk, we may conclude in <hi>Friſeſo<g ref="char:EOLhyphen"/>morum,</hi> that our <hi>Mounſieur Bragghibus,</hi> though he pretend himſelf a Prieſt of the Church of <hi>England,</hi> is not altogether ſo converſant with the Bible as many others are; and therefore we would recommend to his conſideration (as a Hiſtory which perhaps may be more pleaſing and delightful to him) the 4th Chapter of the firſt Book of <hi>Guſman;</hi> where he ſhall find many Excellent Leſſons touching the underſtanding of Injuries, and how to proceed where Offences are taken.</p>
+            <p>Now, ſhould you demand a Reaſon of theſe Hot and Fiery Proceedings, 'tis greatly to be fear'd that <hi>Mounſieur Bragghibus</hi> would be <hi>tunc ut nunc in Huffis &amp; Puffis</hi>—and— <hi>Lookando</hi> over <hi>Shouldrum Leftum,</hi> would anſwer proudly, ſurlily, haughtily, promiſ<g ref="char:EOLhyphen"/>cuouſly, darkly, obſcurely, deeply, profoundly. But what ſaies St. <hi>Ambroſe? Qui huffat huffabitur—&amp; qui look at lookabitur.</hi> Methinks I hear his Reply already. Firſt, That <hi>Quinta Eſſentia</hi> ſuffering a Coagulation with Democratical Atoms in <hi>Genere <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> raliſ<g ref="char:EOLhyphen"/>ſimo,</hi> 'tis not Rational that there ſhould be a privation of the Natural Energy of <hi>Mate<g ref="char:EOLhyphen"/>rial exurgens Catholou Proton.</hi> For that <hi>Tarabin tarabas</hi> being the Hieroglyphical Con<g ref="char:EOLhyphen"/>ſtruction of the four Elements, of which <hi>Choler</hi> is a Problematical Mixture, there can be no Efficient Cauſe of an Enharmonical Agreement between the Pole Artick and Antartick.</p>
+            <p>Fourthly and laſtly; Seeing that in Matters of High Concernment there ought ſtill to be <hi>Conumdrum-bombinans</hi> in the vacuity of the circumambient Air, which accord<g ref="char:EOLhyphen"/>ing to the Author of that Excellent Treatiſe, called <hi>The Maſter of Arts,</hi> Drenching-Horn is required to dilucidate the Diſcovery of the <hi>Hoti</hi> &amp; <hi>Dittoti in cauſa ſine quae non;</hi> therefore it is impoſſible there ſhould be a Coalition of Intellectuals <hi>in eodem Radio Kata Pantòs.</hi>
+            </p>
+            <p>Theſe, Sir, if you will be ſo contented, are true <hi>Dodonean, Delphic, Heraclean, Sy<g ref="char:EOLhyphen"/>billine, Pythian, Ammonian,</hi> high, abſtruſe, recluſe Anſwers indeed; Potent Reaſons and Juſtifications of over boiling <hi>Choler;</hi> and therefore ſince we are like to expect no better from the <hi>Hermite</hi> of the <hi>Sounding Iſland</hi> himſelf, what think you of propound<g ref="char:EOLhyphen"/>ing the ſtreſs of the <hi>Hermite's Modeſt Vindication</hi> to two Learned and Famous Perſons that I have in my Eye? — A very fair Propoſal—but who are the?—Two as no<g ref="char:EOLhyphen"/>table Caſuiſts o' my word, as ever tormented <hi>Genus</hi> and <hi>Species.</hi>
+            </p>
+            <pb n="5" facs="tcp:99546:4"/>
+            <p>The learned <hi>Suarez,</hi> and moſt acute <hi>Alvarez.</hi>—Agreed — Why then—<hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<g ref="char:EOLhyphen"/>nas, Mannanas, Sennores</hi> — No perſons ſo fit as you to reſolve the Doubts and Queſtions, we ſhall propound to ye, as being both Spaniards; and for that the difference, from whence our Doubts ariſe concern a Doctor of <hi>Salamanca,</hi> and the <hi>Hermit</hi> of the <hi>Sounding Iſland,</hi> who has been a Slave among the <hi>Moors,</hi> once Lords of a great part of your Country — Yet we would not have you favour <hi>Salamanca</hi> for <hi>Salamanca</hi>'s ſake, nor give a wrong judgement againſt the <hi>Her<g ref="char:EOLhyphen"/>mit</hi> for the ſake of the <hi>Moors</hi> your Capital Foes.</p>
+            <sp>
+               <speaker>Suar, Alvar.</speaker>
+               <p>
+                  <hi>Sennores no los conocemos uy el un, ny el otro; però haremos nos la juſtitia a todos dos ſin algumâ parcialidad.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sennores,</speaker>
+               <p>No more Spaniſh — Only this farther we requeſt, that your re<g ref="char:EOLhyphen"/>plies may be very ſhort, and that you would, if poſſible, anſwer us in Monoſy<g ref="char:EOLhyphen"/>lables, or Diſſyllables at moſt, for we love brevity and Laconicneſs exceedingly.</p>
+            </sp>
+            <sp>
+               <speaker>Alv. Suar.</speaker>
+               <p>Proceed.</p>
+               <p>Do we not find in credible Hiſtory, mention made of Conſecrated Daggers, and of Poyſon mix'd in the very Hoſt it ſell, for the deſtruction of Princes?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Right.</p>
+               <p>And is there any impoſſibility that a ſerew'd Gun may be made uſe of for the ſame wick'd intendments?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>None.</p>
+               <p>What Members do Men make uſe of when they give Evidence againſt Tray<g ref="char:EOLhyphen"/>tor?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Tongues.</p>
+               <p>Do they breath when they ſpeak?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Breath.</p>
+               <p>Is it then the breath of the Witneſs, or the Law, by which the Criminal is condemn'd, that is the occaſion of the Criminals being hang'd?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Law.</p>
+               <p>What does the <hi>Hermit</hi> mean by the <hi>deſtruction of ſeveral eminent Perſons.</hi> Does he not mean thoſe notorious Jeſuites, who, if for nothing elſe, had been juſtly executed, only for being found neſtling in a forbidden Land?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Doubtleſs.</p>
+               <p>What does he mean by <hi>Hazarding the lives of a great many more?</hi> does he not mean the Reſt, that by reaſon of our confuſions and diſtractions have hitherto eſcap'd? And does it not ſhew the true Popiſh inclinations of a Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Prieſt?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Plain.</p>
+               <p>The what does ſuch a prophane Libeller, ſuch a froppiſh Droller upon the Deliverances of Heaven, and Ridiculer of his Princes and his Countries Preſer<g ref="char:EOLhyphen"/>vation deſerve?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Hemp.</p>
+               <p>What are they that will not beleive a Popiſh Plot, examin'd by the King and his Council acknowledged by the Parliament of the Nation, and atteſted by the Sentences of the Judges of the Land? Are they a Fools or a Knaves?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Both.</p>
+               <p>Is not the <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> an impudent Prieſt of the Church of <hi>England</hi> to deride the <hi>Salamanca Doctor</hi>'s Atteſtation againſt the worſt of Crimi<g ref="char:EOLhyphen"/>nals by the Name of <hi>Buke-blawing.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>True.</p>
+               <p>Which of the two, d'ye think ſpeaks moſt to the purpoſe, <hi>Guzman</hi> or the <hi>Hermit?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Gu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi> —</p>
+               <p>He tells ye the <hi>Salamanca Doctor</hi> was at length put upon it to trie an expe<g ref="char:EOLhyphen"/>riment to fix Property, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Traſh.</p>
+               <p>And don't you verily believe, that <hi>Laztrillo de Tormes</hi> made as good an ex<g ref="char:EOLhyphen"/>cuſe
+<pb n="6" facs="tcp:99546:5"/>to the Cardinal for ſtealing his Conſerves, as the <hi>Hermit</hi> has done for pub<g ref="char:EOLhyphen"/>liſhing his modeſt vindication.</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Better.</p>
+               <p>What a Man reports of himſelf is moſt properly to be beleived, but the <hi>Hermit</hi> himſelf reported of himſelf, that he was circumciſed.</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Ergo.</hi>
+               </p>
+               <p>But ſuppoſe he had been circumciſed <hi>a la Moreſca,</hi> think ye the Ladies would have thought him a whit the worſe for that?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Pſawaw.</p>
+               <p>Had the <hi>Salamanca</hi> Doctor reported he had been circumciz'd <hi>a la Torqueſca,</hi> the you'd ſay the Caſe had been altered, by the total Privation of the <hi>Callibi<g ref="char:EOLhyphen"/>ſter &amp; couillons couillontes ſecundum quid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Vray.</hi>
+               </p>
+               <p>Which nevertheleſs had it been done effectually, had been no ſuch injury nei<g ref="char:EOLhyphen"/>ther: For thereby had the <hi>Hermit</hi> been freed from ſundry painful diſeaſes, as Pri<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n, the Diabetes, the Stone in the Bladder, <hi>&amp;c. Tollantur teſticuli,</hi> ſaith St. <hi>Origen, ut co intenſior ſit animus in ſtudiis coeleſtibus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Right.</p>
+               <p>Then if he turn Mahometan, he might well be excuſed, <hi>Lazarilla de Tormes</hi> Father turned Mahometan, and ſo got him a rich Wife. <hi>Quandiu Romae vixeris, ut Romae faciunt, facito,</hi> ſaith St. <hi>Jerome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Bon.</hi>
+               </p>
+               <p>Now did you ever know ſo much of the <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> before in your lives?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Nonne.</hi>
+               </p>
+               <p>Well but ſuppoſe you never had. Do you think it would have been much to the detriment of Mankind?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Rien de Tout.</hi>
+               </p>
+               <p>Why then what Reaſon had ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be incens'd againſt the <hi>Salamanca</hi> Doctor? For had he been hang'd he might have been Sainted ere this.</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Moſt ſure.</p>
+               <p>But he had not <hi>the leaſt fondneſs to be hanged.</hi> No more you'l ſay has the pi<g ref="char:EOLhyphen"/>tifulleſt Cur, that barks at your heels in the Street.</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Credo.</hi>
+               </p>
+               <p>And yet it had been no ſuch diſgrace to keep <hi>Eminent Perſons</hi> company.</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Nondum venit Hora.</hi>
+               </p>
+               <p>Now you muſt know, Sirs, that after this the <hi>Hermit</hi> arreſted the <hi>Doctor.</hi> And what do ye think he got by't?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>Pounds.</p>
+               <p>How many?</p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alv.</speaker>
+               <p>Six.</p>
+               <p>More, Gentlemen; for the Jury were loath to diſcourage him, for fear of loſing ſuch a precious Prieſt of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Suar. Alvar.</speaker>
+               <p>
+                  <hi>Trop.</hi>
+               </p>
+               <p>Look ye, Gentlemen, there was ten pound for <hi>Mahometiſme,</hi> and ten pound for Circumciſion. A Man would not be really Circumcis'd perhaps for a hundred pound, but he may be reported Circumcis'd for ten. Tis the price currant, <hi>Camblo maritimo.</hi> And you ſee he was glad he got that too, for he calls it <hi>foyl<g ref="char:EOLhyphen"/>ing</hi> the <hi>Goliah.</hi> Twenty pound might well be thought little enough for a pretended defamation of this perſon, when a <hi>Jew,</hi> a cunning <hi>Jew</hi> gave ſix hundred peices of Eight for his Body; and now add twenty pound to ſix hundred peices of eight and there's the full value of him, his Reputation, Skin and Bones and all. However this does not ſign<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fie that the <hi>Salamanca</hi> Doctor was in the wrong, infinitely much leſs that he was perjur'd, but only that he could not prove what he ſaid. For moſt certainly <hi>Guſman</hi> was in the right when he told the <hi>Auditor del Torrone,</hi> or Chief Juſtice of <hi>Bologna,</hi> that <hi>Alexander</hi>
+                  <pb n="7" facs="tcp:99546:5"/>had ſtollen his Cloaths; but becauſe he could not prove what he ſaid, <hi>Alexander</hi> was let go, and <hi>Guſman</hi> was <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by the Heels.</p>
+               <p>But a Blots a Blot, and a Tarniſh a Tarniſh, and therefore it had been bet<g ref="char:EOLhyphen"/>ter for the <hi>Hermit</hi> to have endur'd the Title of an ill name had he deſfie'd to have it die quickly. For, ſaith the Sententious <hi>Guſman</hi> in his ſixth Chapter of his firſt book of his ſecond part. With the more, violence Men ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k to ſhake it off the more it cleaveth unto them; Inſomuch that it continues ſome<g ref="char:EOLhyphen"/>times to the fifth Generation; and then thoſe that ſucceed them, glory and boaſt themſelves thereof, and Blazon that for their Arms, which their An<g ref="char:EOLhyphen"/>ceſtors held for an affront. <hi>Hermit</hi> of the <hi>Sounding Iſland,</hi> take an Eſpecial care of your Poſterity. And indeed it appears that the <hi>Hermit</hi> was but a piti<g ref="char:EOLhyphen"/>ful ſcowrer of durty Reputations, who thought to waſh off the Stains and Blemiſhes of his own inconſiderable, Open arid Credit (which was never ripe till now that it publickly appears to be rotten) by aſperſing the moſt con<g ref="char:EOLhyphen"/>ſiderate proceedings of the higheſt Authorities of the Nation. Alas, the Cre<g ref="char:EOLhyphen"/>dit of the <hi>Salamanca</hi> Doctors Teſtimony ſupported by the Approbation of the three Eſtates of the Kingdom is not to be <hi>Twenty-pounded</hi> out of that eſteem which is due to it, by the little Victory of an <hi>Acorn-Divine,</hi> in the nice and Tick<g ref="char:EOLhyphen"/>liſh poynts of Law. Which walking <hi>ſecundum allegata &amp; probatos</hi> proceeds to ſentence according to the Strength or weakneſs of Probation. Where<g ref="char:EOLhyphen"/>in if the <hi>Salamanca</hi> Doctor fail'd, it ſhews him to be no ſuch Artiſt at ſwearing as this ſame <hi>Sally</hi> Prieſt would make him, while only failing upon the ſcore of his intelligence, he may perhaps be ſaid to be unwary in his report, but not perjur'd by any means. Nor is the <hi>Hermit</hi> ere' a jot the more unmaho<g ref="char:EOLhyphen"/>matiz'd or uncircumciſ'd by the kindneſs of his <hi>verdict,</hi> ſeeing there is no Cer<g ref="char:EOLhyphen"/>tificate of able Surgeons, nor return of grace and experienc'd Midwifes in<g ref="char:EOLhyphen"/>ſpection amiex'd to the <hi>Poſtea.</hi> So that how having aſcended the Stage of the World in a caſe difficult to determine, he is <hi>Mahometan,</hi> circumciſ'd, or Chriſti<g ref="char:EOLhyphen"/>an as every one pleaſes, ſince every man is left to the freedom of his own Sen<g ref="char:EOLhyphen"/>timents.</p>
+               <p>The latter part of his introduction is a meer Declamation againſt hanging, againſt which he ſeems to have a very great Antipathy. But whether it be out of any deep ſence of his deſerts, or whether out of kindneſs to that manner of execution, as beleiving his perſon would be a diſgrace to the Gallows, is a doubt to be added to the reſt of <hi>Tullies</hi> Tusculan queſtions.</p>
+               <p>And thus we come to the long, tedious, lamentable, joyful, tragical, mirth<g ref="char:EOLhyphen"/>ful, doleful, chearful, dreadful, delectable, miraculous, nonſenſical ſtory of the <hi>Hermites</hi> Captivitie and eſcape out of the Land of <hi>Muſſulmania,</hi> where he con<g ref="char:EOLhyphen"/>tinued a Slave three hundred ſixtie five years, three months, three hours, three half hours, three quarters, three minutes, and three half minutes.</p>
+            </sp>
+            <p>
+               <hi>Exeunt Suarez</hi> and <hi>Alvarez.</hi>
+            </p>
+            <p>Wich ſtory tho the <hi>Hermite</hi> has got by it many a fair repaſt, and many a Reckoning paid by telling it over and over again in Hackney Coaches, Coffee-Houſes, Ale Houſes, and Taverns, yet he never told right; as appears by a New Relation of one of his Follow-Slaves, who made his eſcape much <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout the ſame time, printed in French at <hi>Cologn,</hi> 1682. and divided into Ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pters by the Tranſlator, for the more eaſie apprehenſion of the Reader.</p>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:99546:6"/>
+            <head>The TRUE HISTORY OF THE STRANGE ADVENTURES OF THE Wandring Hermit OF THE <hi>SO<g ref="char:V">Ʋ</g>NDING ISLAND,</hi> AND <hi>Of his being taken by the</hi> Moors: <hi>His miſerable Captivity: And his Miraculous eſcape from thence.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. How the <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> deſi'd the <hi>Sala<g ref="char:EOLhyphen"/>manca</hi> Doctor in the great City of <hi>Eblana</hi> in the Kingdom of <hi>Ivernia:</hi> And how he was made to pay ſauce for his Tongue.</head>
+               <p>THE Hermit of the <hi>Sounding Iſland</hi> having ill ſpent his time in the famous City of <hi>G<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a,</hi> ſo that every one avoided him for cer<g ref="char:EOLhyphen"/>tain Lazarillian qualities incident to Youth, he fell into a brown Study. In this brown Study, quo he moſt certain it is, that I am a very great Prophet; for I find I am little eſteem'd in my own Country. I will therefore go ſeek ſome other place, where there are not ſuch a multitude of Crape Gown Scavengers to ſweep and cleanſe the Streets of a City with their long Gowns, as here in <hi>Londinum.</hi> And thus determin'd, he went and found out the Dwarf <hi>Pacolet,</hi> carried him to the Ale-houſe, and drank him in<g ref="char:EOLhyphen"/>to ſo good a humour, that he lent him his Horſe: Which he immediately mounted, and rod night and day, till he arrived at the City of <hi>Eblana</hi> or <hi>Dubli<g ref="char:EOLhyphen"/>nium</hi> in the Kingdom of <hi>Ivernia.</hi> Here he was got into a ſtrange Country, and therefore it behov'd him to ſhew the excellency of his refined Endowments, af<g ref="char:EOLhyphen"/>ter
+<pb n="9" facs="tcp:99546:6"/>an extraordinary and dazeling manner. How <hi>Pacolet</hi> came by his Horſe a<g ref="char:EOLhyphen"/>gain you ſhall hear at more leiſure, but it fell out pat for the Hermits purpoſe that the noiſe of the Popiſh Plot, and the <hi>Salamanca</hi>'s Doctors diſcovery was got to the City of <hi>Eblana</hi> before him: Thereupon, that he might ſhew the ſharpneſs of his underſtanding, the vivacity of his diſcerning diſtinguiſhing faculties, and the rareneſs of his ingenuity, he began to conſider, whether it were poſſible for a Mortal man to be kill'd with a ſcrew'd Gun, to be poyſon'd with Poyſon, or ſtab'd with a conſecrated Dagger, and not being able to penetrate the depth of theſe Myſteries, nor to unfold ſuch unheard of Riddles as theſe were; thereupon out of a deſire to pleaſe the <hi>Ivernians,</hi> of whom a very great number are Papiſts, he openly defi'd the <hi>Salamanca</hi> Doctor; and challeng'd all the world to diſcourſe with them concerning the <hi>Poſſibility</hi> of <hi>this,</hi> the <hi>Impoſſibilitie</hi> of <hi>that;</hi> the <hi>Probability</hi> of <hi>this,</hi> and the <hi>Improbability</hi> of <hi>that;</hi> ſo that the deteſtable Conſpiracy of the Papiſhes, and their abomi<g ref="char:EOLhyphen"/>nable Plot againſt their Sovereign Lord the King, was made the contemptible Subject of his corouſing mirth, and rendred to the publick as an <hi>Endymion's Dream,</hi> a <hi>Fantome,</hi> a thing in the Clouds, a <hi>Chimaera,</hi> and a meer Tale of a roſted Horſe. For which the Papiſts careſſed him and fed him with Hony, Capons, and fat Beef. But the loyal Inhabitants of <hi>Eblana,</hi> hearing of it com<g ref="char:EOLhyphen"/>plained to the Governours of the City, who preſently ſent for the <hi>Hermit,</hi> and caus'd him to be lock'd up in an Iron Cage, nor would they let him out till he had paid the ranſome of ninety and ſix thouſand of braſs Farthings, which the Papiſts, as they ſay, begg'd for him up and down the Country. And this is the reaſon the <hi>Hermit</hi> has had ſuch a Portal Antipathy againſt the Plot and the <hi>Salamanca</hi> Doctor ever ſince.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How the <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> went on Pilgri<g ref="char:EOLhyphen"/>mage to <hi>Rome</hi> to viſit the Nymph <hi>Ninna Pandolpha:</hi> And what there befell him.</head>
+               <p>THE <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> thus exil'd out of <hi>Ivernia,</hi> returns into the Realm of <hi>Bretannia,</hi> but finding there no comfort, and being over<g ref="char:EOLhyphen"/>grown with neceſſity, like a Muſcovites Chin with hairs: He bethought himſelf how to live in this World, taking no care for the other. He had heard of St. <hi>Francis<g ref="char:punc">▪</g>
+                  </hi> St. <hi>Dominick,</hi> St. <hi>Loyola,</hi> and ſeveral others who liv'd well in their times, by erecting ſeveral Fraternities and Religious Orders, of which becoming the Cheif Heads and Governours themſelves, they abounded in caſe and plenty all their dayes. And why then, quo' he, ſhould not I be like wiſe Head of a New Order, who abound in Wit, Cunning, Sophiſtry, Learning, Eloquence, and what not? To this purpoſe he had heard, that the Aſſiſtance of a Woman, who was made to be a meet Help for Man, would mainly conduce. Thereupon being ſatisfied of the great endowments, and rare ingenuity of the Nymph <hi>Ninmi Pan<g ref="char:EOLhyphen"/>dolpha,</hi> he reſolved to give her a viſit, and court her friendſhip. Puft up with theſe thoughts he gets him a couple of bladders, and knowing that the paſſage between <hi>Dover</hi> and <hi>Calais</hi> was much nearer, than that over the Lake <hi>Cocytus,</hi> and in a calm day, imagining himſelf to be <hi>Leander,</hi> croſſing the <hi>Helleſpont</hi> to his beloved <hi>Hero,</hi> committed himſelf to the mercy of the Sea, which being Con<g ref="char:EOLhyphen"/>ſcious of the precious burden it carried, bore him ſafe to the <hi>Iccian</hi> Haven whence <hi>Caeſar</hi> imbarqued for <hi>England.</hi> Being thus got on ſhore, he bethough
+<pb n="10" facs="tcp:99546:7"/>himſelf of <hi>Tom Coricis</hi> way of Travelling in <hi>Hermits</hi> Habit, knowing that <hi>Her<g ref="char:EOLhyphen"/>mits</hi> among the Papiſhes are every where plentifully and kindly receiv'd. But for fear of the worſt he took care to Travel in <hi>Autumn,</hi> to the end he might Dine and Sup with the Birds, as he paſt along, upon Grapes, Pigs, Almonds, Pruens, Damſons, and ſuch other ripe fruits as the ſeaſon afforded. It would be tedious to tell ye where he reſted when weary, under what hedges he lay, how the Ravens brought him Victuals as he labour'd it up the <hi>Alps;</hi> It is enough to tell ye, that at length he got to <hi>Rome,</hi> and having found out the fair Nymph <hi>Ninna Pandolpha,</hi> how that having overgorg'd himſelf with green fruit upon the Road he deliver'd her a Recommendatory Letter from the An<g ref="char:EOLhyphen"/>gel <hi>Gabriel,</hi> and three thumping farts (according to the cuſtom of Ship-Sa<g ref="char:EOLhyphen"/>lutation) at the ſame time. The Nymph was ſomething coy at firſt, miſ-doubting ſomething of an Impoſture, but finding the Letter ſo fairly written, that it look'd like a Marqueſſes Patent, ſhe gave him a kind and gracefull wel<g ref="char:EOLhyphen"/>come. Then, quo' the <hi>Hermit,</hi> Fair and Beautiful Nymph, true it is that my outward Garments are but poor and mean, ſuch as becomes a <hi>Hermit</hi> to wear, but the parts which they conceal, I doubt not but you will find upon more in<g ref="char:EOLhyphen"/>timate Converſation, worth your knowledge. My deſign is to erect a New Order of Religious Perſons in the World, in regard ſo many that have gone before me have ſo well thriv'd both in body and Soul by ſuch pious projects. Reverend and well intending <hi>Hermit,</hi> quo ſhe, <hi>Rome</hi> is no place for Invention, but for Conformation of Orders. Thoſe ſtudies require remote places of re<g ref="char:EOLhyphen"/>tirement, not Cites full of noiſe and multitude. I know it well, fair Nymph, reply'd the <hi>Hermit,</hi> and therefore I am ready to attend your Footſteps where ever any ſuch place may poſſibly be found. After theſe and many more diſcour<g ref="char:EOLhyphen"/>ſes and Complements, at length they bethought themſelves of the Rock where <hi>Numa</hi> convers'd with the Goddeſs <hi>Aegeria,</hi> when he Compil'd the <hi>Roman</hi> Laws. To be ſhort, thither they went, and there they ſtayd threeſcore and ten years deviſing ſundry new, devout, and pious Ordinances for the Regulation of their intended Society, which they accorded ſhould be called the Fraternity of the Holy Bottle. Firſt that they who were fuddled over night, ſhould pay a groat next Morning. That Men ſhould pay Beverage for new Gloves and Shoo<g ref="char:EOLhyphen"/>ſtrings. That no Vintner ſhould ſell French-wine in Flaskes without a Licenſe from the head of the Society. That all other Men ſhould endeavour to live comfortably in this World by hook or by Crook. That the Goſpels and Epiſtles belonging to the Breviare of the Fraternity ſhould be taken out of <hi>Guzman,</hi> and <hi>Don Quixot,</hi> with many others of the ſame nature. At the threeſcore and ten years end out they came, and preſented their New Conſtitutions to <hi>Pope Odeſ<g ref="char:EOLhyphen"/>chelchi,</hi> who believing ſuch an Order might prove of great Conſequence, for the good of the Kingdom, and the extirpation of Hereſie, had like to have confirm'd it; but that the Cardinal <hi>Santa Cruce</hi> oppos'd it, telling his Ho<g ref="char:EOLhyphen"/>lineſs that there were more Orders than could well live one by another already, and that farther all of the Orders to this day Erected, were under the ſame Conſtitutions already. Thereupon the Pope gave the <hi>Hermit</hi> and the Nymph <hi>Ninna Pandolpha</hi> thanks for their pains, and five Ducates a peice as a Gra<g ref="char:EOLhyphen"/>tuity. Which ſo enraged the Nymph <hi>Ninna Pandolpha,</hi> that ſhe went home, tore the Angel <hi>Gabriles</hi> Letter, call'd the <hi>Hermit</hi> fool, and left him to ſhift for himſelf.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. How the <hi>Hermit</hi> was receiv'd into the <hi>Colledge</hi> of <hi>Caledonians</hi> at <hi>Rome,</hi> and there read a Lecture upon Salt-Pork.</head>
+               <p>THE <hi>Hermit</hi> being thus defeated in his Grand deſign, was fore'd to keep Lent in ſpite of his Teeth, which was ſuch affliction to his Belly, that he could no longer endure the continual clamours of his Stomach, that
+<pb n="11" facs="tcp:99546:7"/>grew to be more impatient than a Regiment of <hi>Switzers</hi> for want of their pay. You might have had his Birthright for a Meſs of water-gruol. <hi>Ventre diable,</hi> quo' he, I was told, that when a Man was in <hi>Rome,</hi> he muſt do as they did in <hi>Rome.</hi> I wiſh they would make their words good. For I find all other people eat and drink in <hi>Rome,</hi> unleſs it be my ſelf. And ſo ſaying, he made directly to the Colledge of the <hi>Caledonians</hi> without delay. The Gate being ſhut, he knockt and crav'd admitance <hi>per Pamor d' Iddio.</hi> They told him they knew no ſuch perſon as <hi>Iddio,</hi> and bid him be gone. Pray, good Gentlemen, quo' he, a Man of my Habir, in our Country, with hardly a tatter to his tale, may have Ten Shillings for a Sermon, and a Dinner at any time; Sermons, quo' they, we have more then we know what to do with. Ple read ye a Lecture then quo' he. Lectures! quo they; thoſe were the curſed things that ſet us all to<g ref="char:EOLhyphen"/>gether by the ears in <hi>England. Madre de gli Apoſt di!</hi> quo he, I never knew the Gates of a Religious Houſe that againſt a <hi>Hermit</hi> before. Thoſe words were like a Charm, and gave him preſent Entrance, beſides that his grave and ve<g ref="char:EOLhyphen"/>nerable aſpect gave them hopes of hearing ſtrange things from him. How<g ref="char:EOLhyphen"/>ever there was no reaſon that their expectations ſhould be ſatisfi'd before his; which being done with a large repleniſhment of three days break faſt, Dinner and Supper, in which time the <hi>Hermit</hi> devour'd a whole Wild-Boar, thirty dozen of Pigeons, the Tripes of ſeven far Oxen, beſides Bread and Sallets; all which he waſhed down with four large Veſſels of Wine without Water, each containing two hundred and ſixteen quarts. <hi>Nel noune di tutti gli Santi,</hi> cryed one of the <hi>Galedonians,</hi> who have we got here? Heaven knows cry'd a<g ref="char:EOLhyphen"/>nother, but he feeds as if he were to be ſecond to Saint <hi>Michacl.</hi> If he has not a Budget in his throat cry'd another, like a Monkey, the Devils in him. However becauſe they ſaw him ſeed ſo Prodigiouſly, they believ'd he would talk Miracles: And therefore they thought every minute a year, till they might hear his promis'd Lecture. Thereupon the <hi>Hermit</hi> reading their minds in their looks, when the Table was clear'd, call'd for a Cuſhion: And where he ſate, thus began.</p>
+               <p>Moſt kind Brethren quo' he, I have here eaten of your Wild-Boar, but in my Opinion; <hi>con la ioſtra Licenza, Santiſſimi Padri,</hi> it is nothing ſo good as our ſalt Pork in <hi>England.</hi> The <hi>Jews</hi> had not the way of ſalting it, which a<g ref="char:EOLhyphen"/>bates that feminifie, and conſequently prolifie quality which it has being freſh; and that was the reaſon that Swines fleſh was for bid to the <hi>Jews,</hi> a people that needed no Incentives or Provocatives to Venery. Beſides the Salting of Pork, moſt dear Brethren, conſumes that fleſhy Moiſture which would other<g ref="char:EOLhyphen"/>wiſe render it more nauſeous, eſpecially to weak Stomachs. Tho for my part Heavens be prais'd, I can eat it freſh or ſalt at any time. However were I put to my choice, I would rather have ſalt Pork and Turneps; ſalt Pork and Peaſe, then freſh Pork and Turneps, freſh Pork and Peaſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. You'l ſay perhaps that ſalting may make it hard. To that Objection I anſwer moſt Reverend Fa<g ref="char:EOLhyphen"/>thers, it behoves ye all to riſe betime in the Morning. Firſt for your Prayers ſake: Secondly for the ſetting on of the Pot. For the ſooner ye riſe the quicker will be your Appetite; the ſooner the Pot is on, the ſooner the Pork will be in the Pot; the longer it boyles, the tenderer it will be; the tenderer it is, the more grateful it will be to the Palate, the leſs troubleſome it will be to the Teeth, and the better it will nouriſh your Religious Patron ſhips; which was the only end, and final intention of the Founders of eating: For that we do not eat to live, but live to eat, as having nothing elſe to do, but to live and eat in this World.</p>
+               <p>This was the ſubject of the <hi>Hermits</hi> Lecture, which tho in it ſelf deſerving the chiefeſt place of a Bookſellers ſtall among the dayly croud of Wedding, Funeral, Sunday Sermons, yet being made in the Commendation of Pork, the <hi>Caledomians</hi> took it ſo hainouſly, that they reſolv'd to have him chas'd out of <hi>Rome</hi> for a Heretick. Tho in ſo doing they did like a Company of blind bayards<g ref="char:punc">▪</g>
+                  <pb n="12" facs="tcp:99546:8"/>for that by their Inadvertency the Church of <hi>Rome</hi> loſt the greateſt Proſelyte, that ever it had had ſince the death of Saint <hi>Peter.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. How the <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> made him an Engine, and flew to <hi>Lisbonia</hi> in the Realm of <hi>Porto Gallia.</hi>
+               </head>
+               <p>THE <hi>Hermit</hi> of the <hi>Sounding Iſland</hi> having thus <hi>Pork'd</hi> himſelf out of the City of <hi>Antichriſtia;</hi> where had it not been for this unlucky accident, he had cer<g ref="char:EOLhyphen"/>tainly in a ſhort time aſcended to the degree of a Cardinal, began to bethink him<g ref="char:EOLhyphen"/>ſelf what a long way he had to foot it back again. And therefore calling to mind the hardſhips which he had before endur'd, he reſolv'd to make him an Engine to fly. You'l ſay perhaps he had not wit enough, I do not ſay he had; but he got the <hi>Sieur Beſnier,</hi> a French Smith to help him. So they took two Poles or Rods which at each end of them had a long Chaſſie of Taffaty, which Chaſſies folded from above downwards, as the frame of a folding Window <hi>A.</hi> repreſents the right wing before, <hi>B.</hi> the left wing behind. <hi>C.</hi> the left wing be<g ref="char:EOLhyphen"/>fore, and <hi>D.</hi> the left wing behind. Then he took a ſmall ſtring, and tied it from the wing <hi>B.</hi> to the left foot by which it was mov'd downwards, at the ſame time that the wing <hi>A.</hi> was mov'd downwards by the right hand. Then he took another ſtring and faſten'd it to his right Leg; by which the right wing <hi>D.</hi> behind was made to deſcend at the ſame time that the left hand drew down <hi>C.</hi> the left wing before, which done, the <hi>Hermit</hi> put and fitted theſe Poles to each ſhoulder, ſo that two of the Chaſſies were before him, and the other two behind him. Now the Chaſſies or wings which were before him were ſtruck down<g ref="char:EOLhyphen"/>wards by the ſtrength of his Arms and hands, by which the hinder wings were lifted up; and the fore wings were ſtruck downwards by the Leggs, which pull'd them down by the two ſtrings which were faſtened both to the Leggs and hinder wings.</p>
+               <p>Having thus compleated his Engine, after four days practice, he got up ſtairs and throwing himſelf out of a Garret Window away he flew in the Devils name with a little Compaſs in his mouth to direct him his right courſe.</p>
+               <p>And now he had not flown above a hundred Leagues, but all the <hi>Aſtronomers</hi> and Srar-gazers were got out in the Streets Turrets and Steeples, gaping with their <hi>Aſtrolabes, Teleſcopes,</hi> and admiring at the ſtrangeneſs of the ſight and ſome ſay'd he was the Prince of the Airs Ambaſſadour, that was going upon urgent affairs to the Prince of darkneſs, others ſayd it was the Tankard bearer broke looſe from the Zodiack, ſome ſaid it was the Devil himſelf, and could be nothing elſe, for that the motion of his wings was Perfectly Diagenal. In ſhort the conjectures were many that were made of the ſight, and the predictions as many that were rais'd from it. Some talk'd preſently of the end of the world. Others foretold great alterations of the affairs of <hi>France</hi> and <hi>Germany:</hi> Others predicted great ſcarcity, by reaſon that he had ſo fan'd the Air with his Chaſſies, that there was not like to be any more Clouds in four thouſand years. And this is certain that the noiſe of his Chaſſies flip flop, flip flop as he flew, caus'd ſuch a conſternation a<g ref="char:EOLhyphen"/>mong the fowles of the Air, that they have not dar'd to come near the Hedges, Gardens, Orchards, Foreſts or Woods, over which he took his flight, never ſince.</p>
+               <p>At length after many reſtings in old Appletrees, Oaks, Elmes, and Barns he arriv'd at <hi>Lisbon,</hi> where he met with a Dancer of the Ropes, who obſerving that the <hi>Hermits</hi> Engine might be very uſeful to him to conveigh him from line to line for the ſport of the people, gave him a hundred thouſand pounds a day for the uſe his Engine, which as it prov'd to the great advantage of the Dancer on the Ropes, ſo was it a great ſupport to the <hi>Hermit.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="33" facs="tcp:99546:8"/>
+               <head>
+                  <hi>CHAP. V.</hi> How the <hi>Hermite</hi> of the ſounding <hi>Iſland,</hi> met with the famous <hi>Tunbellioſo, Prio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> of the <hi>Abbey</hi> call'd the <hi>Abbey</hi> of the <hi>Golden Lyon,</hi> and how they drink to gether in one of St. <hi>Chriſtophers Boots.</hi>
+               </head>
+               <p>ALthough the <hi>Hermite</hi> were thus in a moſt fortunate and flouriſhing Condi<g ref="char:EOLhyphen"/>tion, yet he could not but think it ſcandalous for one of his Profeſſion to be a Lover of the World, and conſequently a Hoarder of Money. There<g ref="char:EOLhyphen"/>fore quoth the <hi>Hermite,</hi> one day to the Rope-dancer, ſhould I now with this money build a religious Houſe, what ſhould I get by it? For there men live lazy, idle and un<g ref="char:EOLhyphen"/>grateful; and to burn ſo many young Virginities in female Cloyſters goes againſt my natural Diſpoſition. Nor did I hear of any <hi>Hermite</hi> yet, that ever erected a Temple to <hi>Bacchus,</hi> beſides that there are ſo many advanc'd to his Honour already. Come on then, i'll tell ye what i'll do, i'll e'en ſpend this Hundred Thouſand Pound a day in Drink, which is more than ever was done in this World before. But where ſhall a Man meet with a <hi>Firmus</hi> or a <hi>Barbarus,</hi> to keep one Company? that <hi>Firmus</hi> was a brave Fellow for he drank Wine, as the Story ſays by Pailfuls. Take no care quoth the Rope dancer, here's a Gorbelly'd <hi>Prior</hi> of this City, that if the Rivers in this Realm ran <hi>Port o Port;</hi> would empty e'm all in ſix Weeks, and in the ſix Weeks more piſs 'em full again. Let me never drink more quoth the <hi>Hermite,</hi> if I ever cloſe my Eyes before I ſee this Miracle of Mankind. By the bones of St. <hi>Criſpin,</hi> i'll not change Renown with <hi>Hercules</hi> or <hi>Bevis</hi> of <hi>Southampton,</hi> if I can but conquer this bold <hi>Prior:</hi> In the Name of St. <hi>Winefred,</hi> quoth the <hi>Hermite,</hi> how d'ye call him? <hi>Tun-Bell oſo,</hi> quoth the Rope dancer, or the <hi>Prior</hi> of the <hi>Abbey</hi> of the <hi>Golden Lyon.</hi> It was impoſſible to ſtop the <hi>Hermite</hi> a minute longer, and ſo they went to ſeek out the <hi>Prior,</hi> and finding him at his Convent, to relye the Complements that paſt will take up too much time. It is enough to tell thee that the <hi>Prior</hi> and the <hi>Hermite</hi> underſtood one another in a Trice ſo well, that the <hi>Prior</hi> call'd immediatly for ſix Pailfuls of <hi>Port o Port</hi> Bouze it away quoth the <hi>Hermite,</hi> a whole Pailful at a draught. Not ſo quoth the <hi>Prior,</hi> to drink like a Tub-woman—I have a more noble quaffing Veſſel—no leſs than a Re<g ref="char:EOLhyphen"/>lick—one of the famous St<g ref="char:punc">▪</g> 
+                  <hi>Chriſtophers Boots,</hi> which he wore when he carry'd the Ap<g ref="char:EOLhyphen"/>parition over the <hi>Red Sea.</hi> What you pleaſe reply'd the <hi>Hermite,</hi> ſo we were once at the ſport. Thereupon the <hi>Prior</hi> began two whole <hi>Boots</hi> full brimmers to the <hi>Hermite.</hi> the <hi>Hermite</hi> pledg'd the <hi>Prior</hi> his two, and wheel'd upon him Three. The <hi>Prior</hi> pledg'd him three, and wheel'd upon him four. The <hi>Hermite</hi> pledg'd the four, and wheel'd upon the <hi>Prior</hi> five. The <hi>Prior</hi> took off his five, and wheel'd upon the <hi>Hermite</hi> fix. The <hi>Hermite</hi> pledg'd the ſix, and wheel'd upon his <hi>Antagoniſt</hi> ſeven. Now quoth the <hi>Her<g ref="char:EOLhyphen"/>mite,</hi> methinks we are taking the Pleaſures of the infernal ſhades, according to that of <hi>Eraſmus,</hi> who being ask'd by Cardinal <hi>Pole,</hi> what they did there? cry'd out <hi>Bibitur in Ocreis,</hi> they drink in <hi>Boots,—Bim—Bom—Boam</hi>—quoththe <hi>Prior,</hi> what a Bleſſing it is that we enjoy this good Wine! I hare a Flincher as I hate the Devil. We never ſtudy in this Abbey for fear of the <hi>Mumps Horſu,</hi> then quoth the <hi>Hermite</hi> Clink—Clink—Drink, never think <hi>Calm was the Evening,</hi> Haboys Guggle,—guggle—Good, good,- good—is the true Harmony of the <hi>Sphears.</hi> There's nothing like drinking with a Hei paſs—Touch and goes the word—ne'r fear drowning, Man—becauſe the water ſeems up to your Noſe—You ſee which way it runs. I have a ſtomach as hollow as <hi>Polyphemus</hi>'s Cave—and then twill ſtretch like a piece of new broad Cloath upon the Tenters. The Sun drinks up the Sea—the Moon and Stars drink up the Sun —thus all the World an eternal Health. — Let it go round quoth the <hi>Prior—ſera eſt in fundo parcimonia,</hi> ſays the Proverb, and therefore he
+<pb n="34" facs="tcp:99546:9"/>that ſees not the bottom of his Bowl refuſes good Counſel. <hi>Brevis Oratio penetrat Caelos, Longa Potatio evacuat ſchyphos,</hi> was the ſaying of one of my Predeceſſors, as Boon a Companion as ever ſaid <hi>Mattins.</hi>
+               </p>
+               <p>In this carowſing Poſture they continu'd roaring, pratling and drinking from the Full of the Moon, to the Full of the Moon again; for they did not meaſure Time by Days or Nights, which is the ſhort meaſure of the Sun, but by the long meaſure of the Moon, which never pretends to ſend men to bed, or to call 'em up in the morning, as the Sun does. But as the longeſt Day muſt have an end, tyr'd and hotheaded the <hi>Prior</hi> and the <hi>Hermite</hi> began to think of taking a little Reſt. Quoth the <hi>Prior,</hi> I never ſleep to my content, but when I ſit at a Sermon, or go about to ſay my Prayers. And therefore let you and I begin the Office of <hi>Beati Qui,</hi> i'll war<g ref="char:EOLhyphen"/>rant you, before we have read one page the Phyſick will work. This advice pleas'd the <hi>Hermite</hi> extreamly, and ſo the <hi>Prior</hi> call'd for his Breviary. The force of which was ſuch, that e're they had repeated four Verſes apiece by way of <hi>San</hi>—<hi>ſan</hi>—<hi>ſan</hi>—<hi>ſan</hi>—they dropt as faſt aſleep as two old Cats, and fell a ſnoaring like two Car<g ref="char:EOLhyphen"/>riers, and ſo continued ſleeping and ſnoaring till the next full of the Moon; for by that time the influence of that Planet had ſo well drain'd their heads and their ſtomacks, that they both wak'd at the ſame inſtant: They had no ſooner rubb'd their Eyes, but the <hi>Prior</hi> call'd for the Boot and ſix Pailfuls of Wine to ſettle their Stomachs, which they made no more of, then <hi>Xerxes</hi> Army did of the ſmall River <hi>Simois</hi> by <hi>Troy.</hi> And they had certainly had t'other Bout, had it not been for an Accident. For it ſo happen'd that two of the greateſt Philoſophers in <hi>Lisbonia</hi> could not agree a<g ref="char:EOLhyphen"/>bout a diſpute that was between them, and therefore they reſolv'd to refer the nicety of the matter to the <hi>Hermite,</hi> whom they could not but think to be a Perſon of great Judgment, conſidering after what a ſtrange manner he came to their City.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> How the <hi>Hermite</hi> of the ſounding Iſland determined the Controverſie between <hi>Trifle</hi> and <hi>Toyle-brains</hi> two famous Philoſophers, concerning the Number of the Inhabitants of the World; by which a notable Conjecture may be made at the Number of the Sands of the Sea.</head>
+               <p>IT was no ſmall honor for the <hi>Hermite</hi> of the ſounding <hi>Iſland</hi> to be made the Umpire between two ſuch famous Philoſophers as the profound <hi>Trifle</hi> and the far applauded <hi>Toyle-braines</hi> in a controverſie touching the deepeſt Myſteries that ever Nature conceal'd, and therefore he readily undertook ſo fair a <hi>Province,</hi> from whence he hop'd the greateſt Renown and Profit imaginable.</p>
+               <p>Now you muſt underſtand that the Philoſopher <hi>Trifle</hi> had eſpyed by the help of his <hi>Microſcope</hi> certain little Animals in the Milt of a Codfiſh; about which he was extreamly troubled in Conſcience. For he thought he had found out the buſineſs; believing that the <hi>ſemen prolificans</hi> was a living Body of it ſelf, compoſed of ſeveral other living Bodies, which Nature and Concupiſcence together throwing into its pro<g ref="char:EOLhyphen"/>per receptacle, form'd another ſingle living Creature of many other living Creatures, thereby intimating that life was before life; and <hi>Democratically</hi> concluding that all liv<g ref="char:EOLhyphen"/>ving Creatures were produced by a Conjunction of ſeveral living <hi>Democratical Atoms.</hi>
+               </p>
+               <p>The Sieur <hi>Toyle-brains</hi> was monſtrouſly perplexed in mind about the certain Num<g ref="char:EOLhyphen"/>ber of Inhabitants that peopled the World. And theſe were the two Brain con<g ref="char:EOLhyphen"/>founding doubts propounded by the two Philoſophers to the <hi>Hermite</hi> of the <hi>Sound<g ref="char:EOLhyphen"/>ing Iſland.</hi>
+               </p>
+               <pb n="35" facs="tcp:99546:9"/>
+               <p>It required ſometime for the <hi>Hermite</hi> to reſolve theſe <hi>Delphic</hi> Queſtions, ſo that while he was inſpecting the Milts of Codfiſh, Eeles, Pikes, Trouts, Dace and Mi<g ref="char:EOLhyphen"/>nows, and ſurveying the <hi>Vaſa Deferentia</hi> of Cats, Hogs and Dogs, Weezels, Dor<g ref="char:EOLhyphen"/>mice, dead Fryers and departed Nuns, Turkies, Capons, Geeſe, Sparrows, Eagles and Titmiſe, the two Philoſophers had time enough to build an Amphitheater as big as that at the ancient <hi>Nicomedia</hi> in <hi>Bithynia,</hi> ſufficient to contain fourſcore Thou<g ref="char:EOLhyphen"/>ſand Spectators.</p>
+               <p>Which being finiſhed, and the <hi>Hermite</hi> having appointed the Day, Heavens! what a concourſe of People was there to admire the <hi>Hermites</hi> Learning, almoſt enough to have ſatisfyed the Sieur <hi>Toyle-brains</hi> doubt, had they been told.</p>
+               <p>Silence being commanded, the <hi>Hermite</hi> firſt declared what great pains he had taken, then he told the Aſſembly, that he had viewed the Milt of a Codfiſh and that in the Juice of it he had diſcovered an infinite Number of live Animals continu<g ref="char:EOLhyphen"/>ally moving to and fro: and that he judged their Number to be about ten Thouſand. That in the <hi>ſemen</hi> of a Cock he had diſcovered about 50000. and that he heard them crow all at a time; and that in an Eele they wriggl'd very much, by which he conclu<g ref="char:EOLhyphen"/>ded that all theſe Animals were of the Nature of the Creature to which they gave life; and that the Teſticles of the ſeveral Creatures in the World were made for the production of thoſe Animals, and to keep them till they were made uſe of.</p>
+               <p>Now then quoth the <hi>Hermite</hi> as to the ſecond doubt, conſidering that in ſuch a ſmall, quantity of the juice of the milt of no bigger then a ſand Cod-Fiſh, and there are more than 10000 ſmall living Creatures, and conſidering how many ſuch quantities may be contained in the whole milt, I do poſitively aver that the milt of one ſingle Codfiſh contains more living Animals, then there are living men a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one time upon the Face of the Earth.</p>
+               <p>For look yee, right Noble and right Reverend, a hundred Sands in length will make an Inch; ſo then in a cubic Inch you will have a Million of Sands. A milt of a Codfiſh is 15 Cubic Inches, containing 15 Millions of Quantities no bigger then a Sand. Now if there be 10000 in one Quantity, there will be in 15 Quantities 150000000000 to proceed then. The compaſs of the Earth is 5400 <hi>Dutch</hi> Miles, the Superficies 3092072 Miles. Now there are in <hi>Holland</hi> and <hi>Weſtfrieſland,</hi> to my cer<g ref="char:EOLhyphen"/>tain knowledge, not one more or leſs, 1000000 People; therefore demonſtrably the whole ſurface of the inhabited World contains 13385000000 Millions of People.</p>
+               <p>When the Aſſembly heard the great Learning of the <hi>Hermite,</hi> and how <hi>Geometrical<g ref="char:EOLhyphen"/>ly</hi> and <hi>Arithmetically</hi> he had reſolved the Philoſophers Riddles, there was ſuch a hi<g ref="char:EOLhyphen"/>deous ſhout that the very breath of the peoples throats darkened the Air for ten Hours. And ſuch was the Fame and Renown of the <hi>Hermite,</hi> that the two great Philoſophers <hi>Trifle</hi> and <hi>Toyle-brains</hi> could not think any recompence high enough for him. However at length they made a ſhift to raiſe as many Thirteen-pence half<g ref="char:EOLhyphen"/>penies, as there were ſmall Animals in the Milt of a Codfiſh, which they preſented him as a Teſtimony of their gratitude for his indefatigable pains.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> How the <hi>Hermite</hi> was taken by the <hi>Moores,</hi> and what befel him thereupon.</head>
+               <p>FOrtune as experience tells us, does not always ſmile; ſhe ſometimes frowns, thus the <hi>Hermite</hi> being laden with all this Wealth, was now reſolved to return to his Native ſtation. Whether he intended to have made any uſe of it, or only to have kept it by him, that after his deceaſe the next finder might take it for his pains, is uncertain. But fortune at that time ſomewhat <hi>Popiſhly,</hi> affected, and not thinking it proper for a <hi>Hermite</hi> to be ſo worldly-well accommodated, reſolved he ſhould not lye long under ſuch an Opportunity of Temptation. After many Con<g ref="char:EOLhyphen"/>ſultations with the ſuperior Faculties of his Soul, the <hi>Hermite</hi> at length concluded
+<pb n="36" facs="tcp:99546:10"/>to ſwallow his Treaſure, then to wrap himſelf up like <hi>Ixion</hi> in a Cloud, and ſo to ſail home in a <hi>Coco Nut.</hi> But unfortunately it fell out, that as he was driving with the Tide by a <hi>Moores</hi> man of War, one of the Seamen putting forth a Bucket at the end of a Pole to take up ſome water, took up the <hi>Coco Nut, Hermite</hi> hand all; this fatal accident diſſolved the charm, ſo that immediatly the <hi>Hermite</hi> appeared upon the Deck among the <hi>Moores,</hi> as viſible as the <hi>Peeke</hi> of <hi>Tenareff.</hi> Any Men but Sea-men would have been afraid, but Sea-men, eſpecially <hi>Moores,</hi> fear neither God nor the Devil, and which was worſe, a Ragamuffin of a <hi>Moore,</hi> having taken ſome diſtaſt at the <hi>Hermite,</hi> ſtrook him ſo hard upon his ſtomach; that he made it chink like a Church Wardens Baſon. Thereupon the Captain ordered him ſuch a doſe of <hi>Co<g ref="char:EOLhyphen"/>loquintida</hi> as ſcowred his Colon in leſs then two hours, as clean as an Artillery mans Musket. And now you may, if you pleaſe, ſuppoſe him, (ſon you are con<g ref="char:EOLhyphen"/>ſtrained to nothing,) ſtript naked, penyleſs, friendleſs, expoſed to ſale in the Slave<g ref="char:EOLhyphen"/>market. at <hi>Sally.</hi>
+               </p>
+               <p>But the poor <hi>Hermite</hi> looks ſo like a red Herring, which being long driven in the parching Sun, and ſo thin bellied by reaſon of his late purge, that no body would bid the price of a meazled Hogg for him. Till at length a certain Jew mak<g ref="char:EOLhyphen"/>ing ſtrict enquiry after him and underſtanding from one of his keepers, how he had been ſtrangely taken up in a <hi>Coco</hi> Nut, and how he had been for ſome time invi<g ref="char:EOLhyphen"/>ſible, till <hi>Mahomet</hi> diſcovered him, and how that he might be ſome <hi>Chriſtian</hi> Con<g ref="char:EOLhyphen"/>jurer. Nay quoth the Jew, if he be a Conjurer, I'le make him pay trebble, his Ran<g ref="char:EOLhyphen"/>ſom, for then he muſt be acquainted with the Devil, and the Devil's, never without money, therefore the Jew payed down ſix Thouſand pieces of Eight for him &amp; carryed him home, reſolving the Devil ſhould pay ſauce for him, when ever he came to pay his Redemption. But the Jew had better have been without him; for there was not a day paſt wherein the <hi>Hermite</hi> did not play his Patron one Dog trick or other. Among the reſt one day he put Cowitch in his <hi>Sherbet,</hi> which put his Patron into ſuch a fit of farting and laughing, that he had like to have ſpit out his Lungs. Another time he layed ſuch an unſavory Doſe under his Patrons pillow, that had almoſt poyſoned him. His maſter being in the dark, threw away the Pillow, be<g ref="char:EOLhyphen"/>lieving that had offended him. But then going to lye down again, he laid his Noſe full in the midſt on't: Which cauſed ſuch a Relaxation of the Ventricles of his Sto<g ref="char:EOLhyphen"/>mach as had like to have coſt him his life; another time he went and begg'd a parcel of <hi>Syracuſe</hi> Wine of the <hi>French</hi> Conſul, and ſet it in his Patrons way. His Patron taſting it, never left taſting and ſipping, till he had ſipped himſelf dead drunk. Which the <hi>Hermite</hi> perceiving, made bold with his <hi>Scimatar,</hi> and a good parcel of his Patrons <hi>Spainiſh pieces,</hi> with an intention to have ſhewed him a fair pair of Heels.</p>
+               <p>But being apprehended and brought back again to his Patron, the Jew was ſo incenſed againſt him, that he reſolved to roaſt him alive.</p>
+               <p>In ſhort he made him faſt to a Spit, as they do ſpit Cock Eeles, having firſt larded him all over with a Larding needle: Then he brought him into the Sun, ſetting a<g ref="char:EOLhyphen"/>nother Slave to turn him; and after he had well baſted him with Honey, left him till he thought he might be enough. The <hi>Hermite</hi> in this Condition, fell to what he had ſeldom made uſe of before, his Devotions more eſpecially to St. <hi>Lawrence;</hi> and after he had made his Petitions to Heaven, he applyed himſelf to the Turnſpit, with ſuch mollifying and ſoftning Language, that as his Body dript, the Turnſpits heart melted; and pity (no doubt the St. had a Finger in the pye) ſo overcame him, that he unlooſed the <hi>Hermite</hi> from the Spit, when the <hi>Hermite</hi> was looſe, he went in that heat to ſeek out his Patron who was coming forth to ſee whither he were e<g ref="char:EOLhyphen"/>nough or no. But <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeing his Slave in that pollute, retreated. The <hi>Hermite</hi> follow<g ref="char:EOLhyphen"/>ed him, ſpirted him through the thud Lappet of the Liver, and ſo penetrating the <hi>Diaphragma,</hi> paſt by the <hi>Pericardium,</hi> and out under his left Armpit. (For had he touched the <hi>Pericardium</hi> the wound had been mortal,) and then cut off his Head. Having thus ſecured his Patron he ſtayed till Mid-night, then he took off
+<pb n="17" facs="tcp:99546:10"/>his Patrons what he thought convenient; then he leapt into the Street; then he met no body, (for the Devil had lull'd 'em aſleep) then he got to a River; then he ſwam a little way; then he ſwam back again; then he ſwam quite over the River; then he got upon dry Land; then he ran; then he walk'd; then he ran again; ſometimes to the left, ſometimes to the right hand; and then—and what then? ſtop a little—you ſhall hear that in the next Chapter.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>CHAP. 8.</hi> How the Hermite met with a Lion that ſwallow'd him whole, and what befel him then.</head>
+               <p>NOW as the Hermite was wandring over Hill and Dale, us Hermites and Slaves eſcap'd uſe to do, winding and turning, and running and doubling like <hi>Puſs</hi> before the Hounds, while he ſought to avoid devouring and cruel Man, he met with a cruel devouring Beaſt. 'Twas confounded ill fortune; and yet no ſuch confounded ill fortune neither, conſidering what happen'd. For the Hermite was now within twice Musket-ſhot of <hi>Marmora,</hi> the Place of Refuge, which he ſought (for ſo far he had either ſmelt the way, or elſe ſome Angel led him in a Halter, being a ſtranger) when lo a mighty hugeous great roaring bully-Rock Lion came out of a Wood, &amp; immediately leaping upon his ſhoulders, ſwallowed him whole; for his head went in firſt, his ſhoul<g ref="char:EOLhyphen"/>ders next, and the reſt of his body after, ſo there was no harm done; for the Bacon had made his body ſo ſlippery, that the Lion felt no obſtructions in his throat. But hold, Mr. Lion, you are not to march off thus with our Hermite. For the Hermite finding himſelf in a filthy dark ſtinking hole, but very warm, fell a ſcrabling among the Lions ſmall Guts, that the poor tormented Beaſt finding himſelf ſo ſuddenly aſſail'd with a moſt tormenting pain, ſtood ſtill, thinking to eaſe himſelf right againſt one of the Bulwarks of <hi>Marmora.</hi> The Souldiers ſeeing the Lion, preſently let ſly one of the great Guns from the Fort ſo exactly at him, that the Bullet ſhav'd off his head, as if it had been done with a Razor. All this while no harm to the Hermite, only a little cloſe Impriſonment. The Souldiers ſeeing the Lion fall, came firſt for his Skin; ſo that when they came to to rip open the Lion's Belly, up ſtarted the Hermite, and beſought the Souldiers to take pity of a Chriſtian newly eſcap'd out of the hands of the <hi>Moores.</hi> A Chriſtian, quo the Souldiers, never was there ſuch a ſhitten, ſtinking Chriſtian ſeen, quo they. However, as thou art a Chriſtian, we are bound to pity thee. Chriſtians and Money are ſcarce in this Country; bett<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> have 'em in a ſhitten clout, than not at all. With that the Souldiers convey'd the Hermite in a Wheel-barrow to <hi>Marmora,</hi> where after they had well waſh'd and cleans'd him, they carry'd him to the Gover<g ref="char:EOLhyphen"/>nour, to whom the Hermite related the lamentable Story of his Miſ-fortunes, who pre<g ref="char:EOLhyphen"/>ſently thereupon caus'd four and twenty Sheep to be preſently kill'd, and the Cauls of them to be plaiſter'd all over his body. For you muſt underſtand, that though the holes of the Larding Needle remain'd, yet the Lard if ſelf was all melted away in the Lion's belly. And indeed he may thank his kind Stars for the accident of the Lion; for nothing could have prov'd ſo ſoveraign to him, as the natural warmth of the Lion after an unnatural Roaſting; as <hi>Caeſar Borgia</hi> wrapt himſelf in the bellies of new kill'd Sheep after he had drank the fatal Poiſon prepar'd for his kind friend. Only the Lard indeed left a ſcurvey, ſalt, ſcorbutick humour behind, which will never be re<g ref="char:EOLhyphen"/>mov'd by all the <hi>Pharmacopoea's</hi> in Chriſtendom. And thus the Hermite made a cle<g ref="char:EOLhyphen"/>ver, ingenious and miraculous Eſcape.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. 9.</hi> How the Jew had his Head fix'd upon his ſhoulders, and was reſtor'd to life again.</head>
+               <p>VVHen it came to be known that the Hermite had cut off the <hi>Jew</hi>'s Head, and and was eſcap'd, there was a great Hubbub in the City; for that the <hi>Jew</hi> was a Perſon of note, and greatly belov'd. When they came to his Houſe, they found <hi>Lucas Hamet</hi> (for ſo was the <hi>Jew</hi>'s name) walking about the Room, and looking for
+<pb n="18" facs="tcp:99546:11"/>his Head. By the Belly of <hi>Mahomet,</hi> cry'd one, there's hope as long as there's life. Thereupon they ſent away Poſt immediately for the Grandchild's Grandchild's Son's Son's Grandchild of <hi>Avenroes,</hi> one of the moſt famous Artiſts in all <hi>Africa;</hi> who pre<g ref="char:EOLhyphen"/>ſently came, and finding the Head warm, caus'd a <hi>Moreſca</hi> Damſel to clap it to her warmer Belly, while he waſh'd the <hi>Jews</hi> Neck with a ſine Spunge dipt in <hi>Syracuſe</hi> Wine; then he took the Head and waſh'd the wounded part of that, and ſinapiz'd the oppoſite part with a Powder of Pilgrim's Salve, ointing them after with Oil of <hi>St. John's wort.</hi> Which done he plac'd the Head upon the Neck, vein againſt vein, nerve againſt nerve, joynt againſt joynt, bone againſt bone, and then ſet three or four Stitches in the Skin to keep it faſt, and laſtly, anointed the ſeam round with another Ointment, of which he would never tell the name.</p>
+               <p>Preſently the <hi>Jew</hi> began to breath, then to open his Eyes, then to colour, then to ſneeze, and laſtly, to break wind backward, which he did ſo ſonorouſly, that all men judg'd it a Thorough Cure. However, they thought it not amiſs to give him as a Cordial a Rummer of <hi>Syracuſe</hi> Wine with Nutmeg and Sugar, to fortifie his Spirits. And thus was <hi>Lucas Hamet</hi> miraculouſly brought to Life again. After he had drank, he called for his Bard to purſue the Hermite. But they told him, the ſhogging of the Horſe would endanger the wrying of his Neck, if not the ſhaking it quite off again. Well then, quo he, ſince it muſt be ſo, Farewel the Devil and ſix thouſand pieces of Eight.</p>
+               <p>You'l ſay, this Story ſeems ſomewhat improbable. Oh Sir! ſo do the Fables of the Poets, and the Apologues of <hi>Eſope</hi> ſeem to be improbable Stories, but the Senſe and Morals of them are true. However, you may aſſure your ſelf this Story is as true, and as much to be believ'd as the vain Comment, and idle and malicious Reflexions which the Hermite makes upon the <hi>Salamanca Doctor.</hi>
+               </p>
+               <p>'Tis true, the ground of this Story, which has ſo much oblig'd the World, and the occaſion of all the Noiſe which the <hi>Hermite</hi> has made, is only becauſe he would not be accompted either a Mahometan, or a Jeſuite, or Circumciſed. Why—'tis Cock-Pit Lay, that he is neither the one nor the other. But yet there are thouſands in the Nation will ſooner believe all Three of Him, and upon juſter grounds, than they will unbelieve the Truth of the Popiſh Plot, or the Verity of the <hi>Salamanca Doctor</hi>'s Diſ<g ref="char:EOLhyphen"/>covery and Evidence. For that the belief of the former is not of equal weight with the belief of the latter. For it is of publick concernment to the whole Nation, whe<g ref="char:EOLhyphen"/>ther there were, or be ſtill a Popiſh Plot or no; but it is not a Straw matter to the whole Nation, whether the <hi>Hermite</hi> be This or That. For my part I believe he is neither, however in friendly manner it may be thought he has more embroil'd his own Credit, than the <hi>Salamanca Doctor</hi>'s Reputation, which they only ſtrive to blaſt<g ref="char:punc">▪</g> who too unwarily cute not what becomes of Prince of Country.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
